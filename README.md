@@ -24,5 +24,5 @@ I'm a passionate developer, eager to learn and explore new technologies.
 
 ## 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](chakrwartiradha71@gmail.com)
 
