@@ -23,6 +23,6 @@ I'm a passionate developer, eager to learn and explore new technologies.
 ![Radha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=radhadevi&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://mail.google.com/mail/u/0/#inbox)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://www.linkedin.com/in/radha-devi-47b628342?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+[![Email](chakrwartiradha71@gmail.com)
 
