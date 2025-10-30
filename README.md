@@ -7,7 +7,7 @@ I'm a passionate developer, eager to learn and explore new technologies.
 
 - 🔭 I’m currently working on personal projects and building my skills.
 - 🌱 I’m learning web development and open-source collaboration.
-- 💬 Ask me about HTML, CSS, JavaScript, or GitHub.
+- 💬 Ask me about HTML, CSS, JavaScript, DBMS ,or GitHub.
 - 📫 How to reach me: [chakrwartiradha71@gmail.com]
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love solving logic puzzles and exploring tech trends!
