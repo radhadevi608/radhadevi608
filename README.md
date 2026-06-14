@@ -1,15 +1,14 @@
-# 👋 Hi there, I'm Radha Devi
+# Hi 👋, I'm Radha Devi
 
-🌟 Welcome to my GitHub profile!
+🎓 B.Tech CSE (AI & ML) Student at Galgotias University
 
-## 🚀 About Me
-I'm a passionate developer, eager to learn and explore new technologies.
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Data Science
 
-- 🔭 I’m currently working on personal projects and building my skills.
-- 🌱 I’m learning web development and open-source collaboration.
-- 💬 Ask me about HTML, CSS, JavaScript, DBMS ,or GitHub.
-- 📫 How to reach me: [chakrwartiradha71@gmail.com]
-- 😄 Pronouns: she/her
+💻 Skilled in Python, Java, Django, NLP, and Deep Learning
+
+🌱 Currently exploring Generative AI and Advanced Machine Learning
+
+📫 Reach me at: chakrwartiradha71@gmail.com
 - ⚡ Fun fact: I love solving logic puzzles and exploring tech trends!
 
 ## 🛠️ Technologies & Tools
