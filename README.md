@@ -22,6 +22,6 @@
 ![Radha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=radhadevi&show_icons=true&theme=radical)
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/radha-devi-47b628342/)
+[![LinkedIn] (https://www.linkedin.com/in/radha-devi-47b628342/)
 [![Email](chakrwartiradha71@gmail.com)
 
